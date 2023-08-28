@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jligeral", "url": "http://github.com/jligeral" },
-      { "network": "linkedin", "username": "jamesligeralde", "url": "www.linkedin.com/in/jamesligeralde" }
+      { "network": "linkedin", "username": "jamesligeralde", "url": "http://www.linkedin.com/in/jamesligeralde" }
     ]
   },
   "interests": [
