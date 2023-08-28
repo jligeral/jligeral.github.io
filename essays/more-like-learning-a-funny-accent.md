@@ -10,7 +10,8 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img class="rounded float-start pe-4" src="../img/more-like-learning-a-funny-accent-picture.jpg">
+
 
 I am a second or third year student of computer science at the University of Hawaii at Manoa, and so far I have completed five different cources pertaining to computer science. Only three of these courses involved writing code. I started learning how to code with Java in the courses ICS 111 and ICS 211, both of which were introductory computer science courses. The third class, ICS 212 Program Structure had us learn to use C (primarily) and C++. I am going to admit: I don't think I was fully confident about my skills or knowledge in Java before I went and did ICS 212. This isn't to say that my professor did a bad job - No, I believe they did an excellent job of guiding me. But there's so much, I personally felt, that I still had to learn.
 
