@@ -10,7 +10,7 @@ labels:
   - Single-Player Game
 summary: "It's Tic-Tac-Toe performed on a Java-based GUI that I made for ICS 211"
 ---
-
+<img class="img-fluid" src="../img/tic-tac-toe-start.png">
 
 This is the first graphical user interface program I ever made. The player goes up against a random number generator, and wins by forming a horizontal, vertical, or diagonal row of of three symbols (in this case "x's").
 
