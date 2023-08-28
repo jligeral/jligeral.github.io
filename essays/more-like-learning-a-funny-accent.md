@@ -24,20 +24,12 @@ What really helped me to learn the material as quickly as I did was my prior kno
 
 ## A new approach to learning
 
-The short deadline to learn the basics of Javascript would also 
+The short deadline to learn the basics of Javascript would also lend itself to dictating the tone of the class. Previously I would be given an entire week to complete programming assignments; ICS 314 Software Engineering provides me with *minutes* to solve problems. There is a new expectation to code efficiently, which I am more than open to. My future career aspirations will eventually lead me to have to undergo coding interviews and improving my coding efficiency can improve my chances of being accepted to certain positions. My professor deems this style of learning "Athletic Software Engineering," which takes from crossfit and other fitness and sports-related training regiments. We develop a "muscle-memory" that will make us quicker at developing algorithms to solve simple problems. To match the name of the style of learning, certain assignments are called "Workout of the Day" or "WOD," which asks that we time ourselves as we solve programming problems.
 
-## In the context of relationships
+## The benefits of a weekly workout routine
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+I personally use the university fitness center every morning before classes and breakfast. I do have fitness goals: I want to be stronger, I want to be leaner, and I want to perform better in activities like running. Aside from proper nutrition, the other important key to success in achieving these goals is *consistency*. The same goes with programming - Ican't maintain good habits and efficient problem-solving skills if I don't remain consistent with my training. The very first WOD I did for ICS 314 Software Engineering involved me having to find all integers between 1 and 1000 that were divisible by 3 or 5. For a lack of better words, I went in somewhat blind. I had just learned the basics of Javascript, and it's been a while since I coded anything. I attempted the WOD honestly, however, and timed myself as I tried to solve the problem.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+First I figured out what I knew could help me. The remainder operator "%" could help me find integers that were divisible. I also knew I had to iterate through some list of numbers between 1 and 1000, so a loop might be helpful. But I encountered a problem with transcribing all this into code. And before I knew it, over 10 minutes have passed (which is considered a failing time by class standards). I was so used to taking my time solving problems and referring to old code that it was probably expected that I go over time.
 
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Assuming my mind can behave similarly to muscle, I can train my mind to linking specific data structures and algorithms to types of problems. This is what I believe one of the intended outcomes of this course is. And it's something I look forward to observing as I go through this class.
