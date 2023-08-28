@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Tic-Tac-Toe Image.png
 title: "Tic-Tac-Toe"
 date: 2022-09-29
 published: true
@@ -11,7 +11,6 @@ labels:
 summary: "It's Tic-Tac-Toe performed on a Java-based GUI that I made for ICS 211"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 This is the first graphical user interface program I ever made. The player goes up against a random number generator, and wins by forming a horizontal, vertical, or diagonal row of of three symbols (in this case "x's").
 
