@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/hr-thumbnail-resize.jpg
 title: "HR"
-date: 2022
+date: 2022-09-11
 published: true
 labels:
   - Java
