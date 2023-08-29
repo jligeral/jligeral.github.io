@@ -9,7 +9,7 @@ labels:
   - Biography
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img class="image-fluid" src="../img/who-i-am-image.png">
 
 *Definitely not what I want to be... yet.*
 
