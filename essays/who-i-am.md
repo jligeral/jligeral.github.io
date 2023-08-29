@@ -4,51 +4,21 @@ type: essay
 title: "Who I Am"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-28
-published: false
+published: true
 labels:
   - Biography
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Definitely not what I want to be... yet.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+I've spent a good chunk of my adolescent and teen years on a computer - Not developing applications or making games, but just interacting with people on online forums and very early forms of social networking platforms. I remember the first technical skills I acquired online - An amateur ability to create and edit on Photoshop, and the ability to manually edit my own forum post content using html and php. Skip ahead a few years, and now I'm on Myspace. Unlike Facebook, Myspace had a very messy default user interface - It was actually just plain ugly if I recall correctly. But unlike Facebook, Myspace allowed for customization, and there was plenty I could do. I would look to other profiles for inspiration and try learning about how I could create a profile page that was both very clean and catered to my stylistic preferences. And eventually I was successful, but by that point Facebook had become everyone's primary social media platform, and would abandon the page I worked so hard on.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Writing all this, I can see that I held a strong interest in design. I like to keep things simple. Whenever I get a new phone, I always install a new launcher that allows me to keep my homescreen clean of most apps save for the most important ones. I almost always keep my laptop's desktop entirely clean of any files and prefer to keep a minimalistic desktop background image. And even when I code, I like to make sure my code is as simple as possible - Not just because it makes it more readable for others, but because I generally like the look of minimal code whenever possible. I really want to design things, and programming is just an activity I found very fun to do.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Inspirations and directions moving forward
 
-Here's what I think: the difficult things will always be difficult.
+I'm still in the process of learning programming. I understand that there are plenty of tools that I have yet to use, and I want to expose myself to as many as I can. Unfortunately, I'm not very self-sufficient and so I do rely on resources such as school and professionals to help me learn about programming. There are many things I'd like to personally build, one of which are simple games. I once joined a gaming club in high school, and we thought up the idea to develop a fighting game with club members being the playable characters and certain school faculty members being boss characters. It was sort of like classic Mortal Kombat, but without the extreme violence. We never made that game though, and it's something I think about when I reminisce. Currently I want to learn how to program a game to play chess, and another to play the card game gin rummy. Gin rummy is a simpler game, so I'd likely start on that when I have time.
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+I also like watching films and animations dealing with technology. Ghost in the Shell is a personal favorite anime of mine, and based on series' like it, I'd like to work with engineers and other designers in realizing technology involving artificial intelligence and virtual reality. But reiterating what I stated at the start - *I am still in the proces of learning*. Not just coding, but what my skills can potentially translate to in terms of technology.
