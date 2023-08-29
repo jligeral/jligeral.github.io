@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Tic-Tac-Toe Image.png
 title: "Tic-Tac-Toe"
-date: 2022-09-29
+date: 2022-10-08
 published: true
 labels:
   - Java
