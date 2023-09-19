@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="img/going-back-to-private-school-resize.png">
+<img class="image-fluid" src="img/going-back-to-private-school-resize.png">
 
 After completing sixth grade, my parents decided to enroll me into private school. At the time, it was a sort of exciting experience - There was always this idea I had about it being much better than my public school experiences. I anticipated meeting smarter classmates, and better quality teachers, and being in state-of-the-art classrooms. What I didn't anticipate was a sudden change in dress code policy. Yep, I was required to wear a uniform to school now. And my shoes had to be black, and I had to wear a belt, although we had the option to buy our uniform shorts in a variety of colors - We were actually restricted to only wearing navy blue, forest green, and red shirts. Up until about a year ago, I never really thought about *why* uniforms at school were a thing. It really seemed trivial to me, but apparently we have some historical and cultural motivations for keeping them in schools.
 
