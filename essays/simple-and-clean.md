@@ -25,10 +25,12 @@ In class the instructor briefly showed how we could check the HTML and CSS of we
 
 ## Are there any drawbacks to frameworks?
 
-The last assignment I finished involved recreating the homepage of a website of my choice. For that assignment I chose to try and recreate the Hawaiian Humane Society home webpage.
+The last assignment I finished involved recreating the homepage of a website of my choice. For that assignment I chose to try and recreate the Hawaiian Humane Society home webpage which I've shared a screenshot of below:
 
 <img class="image-fluid" src="../img/humane-society-screenshot.png">
 
-I didn't immediately encounter any issues. A previous assignment served as a tutorial on how to create a navigation bar, complete with a logo, search icon, buttons, and dropdown menus. In fact, even if I had forgotten how to create a navigation bar, Bootstrap's official documentation page serves as an important resource to implmenting different types of elements in a webpage.
+I didn't immediately encounter any issues attempting to recreate it. A previous assignment served as a tutorial on how to create a navigation bar, complete with a logo, search icon, buttons, and dropdown menus. In fact, even if I had forgotten how to create a navigation bar, Bootstrap's official documentation page serves as an important resource to implmenting different types of elements in a webpage. What I did struggle with eventually was with styling techniques I had not used in previous assignments. For my website choice, specifically, I didn't know how to style buttons to overlay images onto them nor did I know how to add floating elements on top of backgrounds.
 
 <img class="image-fluid" src="../img/humane-society-bootstrap.png">
+
+The above is my attempted recreation that I submitted.
