@@ -11,11 +11,9 @@ labels:
   - Learning
 ---
 
-<img class="image-fluid" src="../img/going-back-to-private-school-resize.png">
-
 I have had previous experience with both HTML and CSS through FreeCodeCamp's Responsive Web Design cources. I never finished the curriculum offered, but I do believe I came out of it with a decent amount of knowledge about both. Still the reason I left the course unfinished primarily had to do with how I felt overwhelmed by the amount of different elements and different ways to style or modify them. I managed to create a basic survey form and a tribute page using HTML and CSS, but stopped once I was tasked with creating a documentation page. Considering my goal of working in software engineering, I knew I would have to return and finish the curriculum at some point.
 
-This brings me to my current software engineering course, where I have been reintroduced to HTML and CSS. We spent one week learning the basics with my old friend FreeCodeCamp used as an additional resource. But primarily, I reviewed both by practicing them in a few assignments where I designed a simple webpage that displayed some background on various internet browsers. One particular new technique I learned involved neatly organizing different information into seperate columns. I also learned about importing Google fonts and linking pages by referencing other HTML files (the hard way I might add since it cost me an in-class assignment). But I believe the greatest strategy I learned was using a combination of <div> tags with class or id attributes to modify specific elements of a webpage.
+This brings me to my current software engineering course, where I have been reintroduced to HTML and CSS. We spent one week learning the basics with my old friend FreeCodeCamp used as an additional resource. But primarily, I reviewed both by practicing them in a few assignments where I designed a simple webpage that displayed some background on various internet browsers. One particular new technique I learned involved neatly organizing different information into seperate columns. I also learned about importing Google fonts and linking pages by referencing other HTML files (the hard way I might add since it cost me an in-class assignment). But I believe the greatest strategy I learned was using a combination of \<div> tags with class or id attributes to modify specific elements of a webpage.
 
 ## Gaining Confidence
 
@@ -28,3 +26,9 @@ In class the instructor briefly showed how we could check the HTML and CSS of we
 ## Are there any drawbacks to frameworks?
 
 The last assignment I finished involved recreating the homepage of a website of my choice. For that assignment I chose to try and recreate the Hawaiian Humane Society home webpage.
+
+<img class="image-fluid" src="../img/humane-society-screenshot.png">
+
+I didn't immediately encounter any issues. A previous assignment served as a tutorial on how to create a navigation bar, complete with a logo, search icon, buttons, and dropdown menus. In fact, even if I had forgotten how to create a navigation bar, Bootstrap's official documentation page serves as an important resource to implmenting different types of elements in a webpage.
+
+<img class="image-fluid" src="../img/humane-society-bootstrap.png">
