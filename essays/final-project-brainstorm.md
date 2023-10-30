@@ -4,7 +4,7 @@ type: essay
 title: "Manoa Lost & Found"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-30
-published: false
+published: true
 labels:
   - Software Engineering
   - Meteor
