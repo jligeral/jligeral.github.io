@@ -22,7 +22,7 @@ Pages included would be the landing page, a user page for regular users and admi
 ## Use cases
 
 <ul>
-<li>We can define two roles: 1) Regular Users and Admin Users</li>
+<li>We can define two roles: 1) Regular Users and 2) Admin Users</li>
 <li>Landing page should have signup and login functionality.</li>
 <li>Lost Item List page is accessible by everyone, logged in or not.</li>
 <li>When logged in, users can manage a list of items they want to be found and can also interact with the Lost Item List page beyond just looking. Managing can included listing delisting lost items.</li>
