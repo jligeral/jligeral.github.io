@@ -4,7 +4,7 @@ type: essay
 title: "Manoa Lost & Found"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-30
-published: true
+published: false
 labels:
   - Software Engineering
   - Meteor
@@ -13,7 +13,7 @@ By <strong>Riki Macmillan</strong> & <b>James Ligeralde</b>
 
 ## Overview
 
-People lose athings all the time. UH Manoa is a large campus, and maybe it's easier to ask other students to help them search for their lost items using some basic information, such as what it looks like and where it might have last been seen. This application should provide a means to help achieve that!
+People lose things all the time. UH Manoa is a large campus, and maybe it's easier to ask other students to help them search for their lost items using some basic information, such as what it looks like and where it might have last been seen. This application should provide a means to help achieve that!
 
 ## Mockup page ideas
 
