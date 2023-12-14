@@ -12,7 +12,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="image-fluid" src="../img/who-i-am-image.png">
+<img class="image-fluid" src="../img/warriors-banners.png">
 
 In sports a 'dynasty' is a team or individual that dominates their sport for some extended period of time, usually in the form of winning multiple consecutive championships and a lasting legacy. In the NBA, Michael Jordan's Chicago Bulls and Kobe Bryant and Shaq's Los Angeles Lakers are two of the most iconic dynasties to have ever come about. Today the Golden State Warriors are easily regarded as the latest NBA dynasty, with them having won four championships within the last decade. Though much of their success is attributed to the collection and retention of star talent, it's very difficult to ignore the overall team's effectiveness on the court. Thus it is not an individual Michael Jordan nor a Phil Jackson nor a Scottie Pippen that wins championships, but rather the combination of them and everyone else on the team and organization that succeeds.
 
