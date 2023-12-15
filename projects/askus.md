@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/its-logo.png
+image: img/its-logo-resize.png
 title: "Ask Us"
 date: 2023-12-10
 published: true
