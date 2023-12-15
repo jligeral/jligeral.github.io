@@ -4,7 +4,7 @@ type: project
 image: img/spider-man-costume-thumbnail.png
 title: "Making a Spider-Man Costume"
 date: 2020-10-25
-published: true
+published: false
 labels:
   - Costume Design
 summary: "I make a costume based on Spider-Man Into the Spiderverse's Miles Morales."
