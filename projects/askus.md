@@ -7,17 +7,22 @@ date: 2023-12-10
 published: false
 labels:
   - Javascript
+  - Node JS
+  - MongoDB
+  - Meteor
 summary: "A full stack web application I helped create and submitted as my ICS 314 Final Project"
 ---
 
 <img src="../img/hr-screenshot.png" class="img-thumbnail" >
 
-HR was the very first real assignment I completed for ICS 211. During our first week, we were tasked with defining an Employee object, which stored information on an employee's unique number, name, and salary, in Java then defining its exceptions - That served as a review of ICS 111 material. Using those, we were then tasked with writing a program which would add employees to an array and sort them via a self-repeating text menu.
+AskUs is a web application that incorporates a chatbot with a semantic search function to improve the search functionality on the [University of Hawaii's (UH) IT help article database](https://www.hawaii.edu/its/ask-us/). This application was initially created for the [Hawaii Annual Code Challenge (HACC)](https://hacc.hawaii.gov/), and then subsequently improved after the competition as a class final project submission.
 
-This assignment set the tone for the rest of the course as it really tested my knowledge of arrays, iteration, accessing object properties, and validating input. ICS 111 assignments built off of previous assignments, but mainly tested our understanding of the last topic we learned. This assignment felt like what would have been a final project for ICS 111.
+## My Role in the Project
 
-I started this assignment by first creating a self-repeating menu. My menu utilized switch case to choose specific options, and was kept on repeat by nesting it in a while loop that would end if the user entered "0" in the menu. Creating the menu was personally the easiest part of this assignment. I would then struggle to figure out a way to add employees into an array (without the use of ArrayList). I believe the process of figuring this out would take a few days, and it wasn't until I remembered one night that I could use a break statement to terminate a for loop that I successfully added an employee with no issues.
+I primarily functioned as the team leader and coordinator. This role proved somewhat difficult mostly due to conflicting teammate commitments and incompatible availability schedules. These issues would eventually lessen after the HACC finished, and the project officially became the group final project. In terms of my other work in the project, I was primarily responsible for the creation of the chatbot and its design. I also contributed to the database implementation, where I parsed all the provided HTML articles into a single CSV file containing the relevant metadata, as well as the implementation of Pinecone to store article embeddings into a specialized vector database. All additions and changes typically went through me before committing them to the main branch of the project. Finally I was responsible for deployment and continuous integration testing of the application.  
 
-The rest of the program involved creating a "counter" variable which would increase if certain criteria were met during a for loop iteration. These were mostly important for printing out statements informing the user that no matches were found if they tried to search specific employee IDs or salary ranges.
+## What I learned
 
-Overall, I did complete the assignment on time and I was satisfied with my work at the time. Upon review of the code, I can definitely make a lot of improvements in its readability by utilizing static functions. I believe this assignment was worth preserving in its original state though as a marker for how far I've come.
+This project was my first experience in full stack development, but also proved to be a learning experience in team management. From the get-go I didn't know anything about creating a chatbot, but conveniently found [a MERN AI chatbot tutorial](https://www.youtube.com/watch?v=PX_YOfEdhRg) prior to the start of the HACC and used it as a basis for project planning and design layout. The tutorial covers a lot of of important concepts in regards to authentication and security, but I personally was most interested in how to specifically tailor OpenAI to answer questions related to IT problems within UH. After deciding to use Meteor to develop the application, my first challenge came in migrating the code used in the tutorial to a Meteor environment. Two key concepts that arose here came in the handling of secret keys and HTTP requests. The handling of secret keys was never taught in class, and I learned about a variety of ways to use a secret key without exposing it to the public. The tutorial taught me how to handle HTTP requests using Node.js and Express, but this was ultimately unnecesary within the environment provided by Meteor. Instead I learned how to utilize Meteor methods to accomplish the same tasks of handling requests. This actually even proved enlightening since it led me to a greater understanding of the Meteor templates I've used for the class the whole semester.
+
+In terms of team management, I learned more about what I *shouldn't* do the next time I lead a team.
