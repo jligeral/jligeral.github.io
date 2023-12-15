@@ -16,13 +16,13 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Nutrition" },
-    { "name": "Games" },
+    { "name": "Game Design" },
     { "name": "Films" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "React", "Meteor" ]
     }
   ],
   "education": [
