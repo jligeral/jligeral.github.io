@@ -4,7 +4,7 @@ type: essay
 title: "Tried and Trusted"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-29
-published: true
+published: false
 labels:
   - Learning
   - Meteor
