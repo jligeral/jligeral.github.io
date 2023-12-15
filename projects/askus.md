@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/hr-thumbnail-resize.jpg
+image: img/its-logo.png
 title: "HR"
 date: 2023-12-10
-published: false
+published: true
 labels:
   - Javascript
   - Node JS
@@ -13,7 +13,7 @@ labels:
 summary: "A full stack web application I helped create and submitted as my ICS 314 Final Project"
 ---
 
-<img src="../img/hr-screenshot.png" class="img-thumbnail" >
+<img src="../img/ask-us-site.png" class="img-thumbnail" >
 
 AskUs is a web application that incorporates a chatbot with a semantic search function to improve the search functionality on the [University of Hawaii's (UH) IT help article database](https://www.hawaii.edu/its/ask-us/). This application was initially created for the [Hawaii Annual Code Challenge (HACC)](https://hacc.hawaii.gov/), and then subsequently improved after the competition as a class final project submission.
 
