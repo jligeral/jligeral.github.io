@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Ask Us | James Ligeralde | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/jligeral.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="James Ligeralde | Professional Portfolio">
+    <meta property="og:url" content="https://jligeral.github.io/projects/askus.html">
+    <meta property="og:title" content="Ask Us | James Ligeralde | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/jligeral.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/bitter.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Ask Us | James Ligeralde | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">James Ligeralde</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Ask Us</h1>
+ <p><img src="../img/ask-us-site.png" class="img-thumbnail" /></p>
+
+<p>AskUs is a web application that incorporates a chatbot with a semantic search function to improve the search functionality on the <a href="https://www.hawaii.edu/its/ask-us/">University of Hawaii’s (UH) IT help article database</a>. This application was initially created for the <a href="https://hacc.hawaii.gov/">Hawaii Annual Code Challenge (HACC)</a>, and then subsequently improved after the competition as a class final project submission. The application features the AI chatbot on the landing page, a link to a tutorial on how to use the application, and an additional page for admin users to analyze the frequency of IT articles used to answer user queries.</p>
+
+<h2 id="my-role-in-the-project">My Role in the Project</h2>
+
+<p>I primarily functioned as the team leader and coordinator. This role proved somewhat difficult mostly due to conflicting teammate commitments and incompatible availability schedules. These issues would eventually lessen after the HACC finished, and the project officially became the group final project. In terms of my other work in the project, I was primarily responsible for the creation of the chatbot and its design. I also contributed to the database implementation, where I parsed all the provided HTML articles into a single CSV file containing the relevant metadata, as well as the implementation of Pinecone to store article embeddings into a specialized vector database. All additions and changes typically went through me before committing them to the main branch of the project. Finally I was responsible for deployment and continuous integration testing of the application.</p>
+
+<h2 id="what-i-learned">What I learned</h2>
+
+<p>This project was my first experience in full stack development, but also proved to be a learning experience in team management. From the get-go I didn’t know anything about creating a chatbot, but conveniently found <a href="https://www.youtube.com/watch?v=PX_YOfEdhRg">a MERN AI chatbot tutorial</a> prior to the start of the HACC and used it as a basis for project planning and design layout. The tutorial covers a lot of important concepts in regards to authentication and security, but I personally was most interested in how to specifically tailor OpenAI to answer questions related to IT problems within UH. After deciding to use Meteor to develop the application, my first challenge came in migrating the code used in the tutorial to a Meteor environment. Two key concepts that arose here came in the handling of secret keys and HTTP requests. The handling of secret keys was never taught in class, and I learned about a variety of ways to use a secret key without exposing it to the public. The tutorial taught me how to handle HTTP requests using Node.js and Express, but this was ultimately unnecessary within the environment provided by Meteor. Instead I learned how to utilize Meteor methods to accomplish the same tasks of handling requests. This actually even proved enlightening since it led me to a greater understanding of the Meteor templates I’ve used for the class the whole semester.</p>
+
+<p>In terms of team management, I learned more about what I <em>shouldn’t</em> do the next time I lead a team. I go into more detail about it <a href="https://jligeral.github.io/essays/building-the-golden-state-warriors.html">here</a>, but in short I learned the importance of setting team expectations early and maintaining consistent good communication between team members.</p>
+
+<h3 id="team-members">Team Members</h3>
+
+<p>Michelle Ho, James Ligeralde, Jonathan Sapolu, Frances Uy</p>
+
+<h3 id="links">Links</h3>
+<ul>
+  <li><a href="https://github.com/tryRebooting2023/askus">Project Repository</a></li>
+  <li><a href="https://github.com/tryRebooting2023">Project Organization</a></li>
+</ul>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

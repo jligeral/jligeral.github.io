@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "James Ligeralde",
+    "label": "Student",
+    "picture": "https://github.com/jligeral.png",
+    "email": "jligeral@hawaii.edu",
+    "phone": "",
+    "website": "https://jligeral.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jligeral", "url": "http://github.com/jligeral" },
+      { "network": "linkedin", "username": "jamesligeralde", "url": "http://linkedin.com/in/jamesligeralde" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Nutrition" },
+    { "name": "Game Design" },
+    { "name": "Films" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "JavaScript", "React", "Meteor" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-01-20",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Navy MWR Fitness",
+      "position": "Recreation Assistant",
+      "website": "",
+      "startDate": "2015-12-16",
+      "endDate": "Present",
+      "summary": "Patron reception and customer service person",
+      "highlights": [
+        "Greets guests, answers questions about facility, and performs monetary transactions",
+        "Enforces proper fitness center conduct and dress code"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "UH Manoa CC Transfer Merit Award",
+      "date": "2023-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming students with 24 transferable credits with a minimum overall GPA of 3.3 from a UH System Community College."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
